@@ -4,7 +4,10 @@
 </p>
 
 # 👋 Hi, I'm Manish Sharma
-**Implementation Engineer | Cloud Enthusiast | Healthcare IT Specialist**
+**Implementation Engineer | Network Engineer | Cloud Enthusiast | Healthcare IT Specialist**
+
+## 🌟 Motto
+*"Passionate about building secure, scalable, and automated cloud solutions that empower healthcare providers and improve patient outcomes."*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-manishsharma7-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manishsharma-7) 
 [![GitHub](https://img.shields.io/badge/GitHub-manishsharma--7-black?logo=github&logoColor=white)](https://github.com/manishsharma-7)  
@@ -13,62 +16,8 @@
 ---
 
 ## 📝 Professional Summary
-I am a Systems Administrator & Implementation Engineer with **4+ years in healthcare technology**, delivering secure and scalable cloud solutions. Experienced in **AWS, Azure, CI/CD, IaC, Docker, Kubernetes, cloud monitoring, and Microsoft 365/Intune/AD**. Completed **hands-on cloud learning projects** and currently preparing for **AWS Solutions Architect – Associate** and **Certificate IV in Cyber Security**, combining technical expertise with healthcare domain knowledge and an understanding of healthcare provider workflows.
+Implementation Engineer & Cloud Engineer with 4+ years of experience delivering healthcare technology solutions and managing enterprise cloud environments. Skilled in AWS, Microsoft 365, Azure fundamentals, and CI/CD automation, with expertise in system integration, cloud security, and stakeholder engagement. Proven success in improving deployment efficiency, reducing downtime, and supporting healthcare providers with secure, reliable platforms. Currently completing a Certificate IV in Cyber Security and preparing for AWS Certified Solutions Architect - Associate certification.<img width="468" height="114" alt="image" src="https://github.com/user-attachments/assets/d19b5a67-a678-4e50-b2fc-1f9a22ac0a56" />
 
----
-
-## 💻 Projects & Hands-On Learning Showcase
-
-<p align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/manishsharma-7/aws-cicd-pipeline" target="_blank">
-          <img src="https://via.placeholder.com/200x120/0d1117/ffffff?text=AWS+CI/CD" alt="AWS CI/CD" title="AWS CI/CD Pipeline Deployment" />
-          <br>**AWS CI/CD Pipeline**<br>
-          <sub>GitHub Actions, CloudFormation, IaC</sub>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/manishsharma-7/dynamodb-data-loader" target="_blank">
-          <img src="https://via.placeholder.com/200x120/0d1117/ffffff?text=DynamoDB+Loader" alt="DynamoDB Loader" title="DynamoDB Data Loader Project" />
-          <br>**DynamoDB Data Loader**<br>
-          <sub>Python, Lambda, API Gateway</sub>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/manishsharma-7/docker-kubernetes" target="_blank">
-          <img src="https://via.placeholder.com/200x120/0d1117/ffffff?text=Docker+Kubernetes" alt="Docker Kubernetes" title="Containerisation & Orchestration Project" />
-          <br>**Docker & Kubernetes**<br>
-          <sub>Containerisation, Orchestration</sub>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/manishsharma-7/cloud-monitoring" target="_blank">
-          <img src="https://via.placeholder.com/200x120/0d1117/ffffff?text=Cloud+Monitoring" alt="Cloud Monitoring" title="Monitoring & Observability Project" />
-          <br>**Cloud Monitoring**<br>
-          <sub>AWS CloudWatch, ELK, Prometheus</sub>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/manishsharma-7/web-app-secure" target="_blank">
-          <img src="https://via.placeholder.com/200x120/0d1117/ffffff?text=Secure+Web+App" alt="Secure Web App" title="Web App Security & Cloud Integration Project" />
-          <br>**Secure Web App**<br>
-          <sub>AWS RDS, EC2, IAM Roles</sub>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/manishsharma-7/container-sample" target="_blank">
-          <img src="https://via.placeholder.com/200x120/0d1117/ffffff?text=Container+Sample" alt="Container Sample Project" title="Hands-on Containerisation Project" />
-          <br>**Container Sample**<br>
-          <sub>Docker, Kubernetes Basics</sub>
-        </a>
-      </td>
-    </tr>
-  </table>
-</p>
 
 ---
 
@@ -90,16 +39,9 @@ I am a Systems Administrator & Implementation Engineer with **4+ years in health
 
 ---
 
-## 🎓 Education & Certifications
-**RMIT University** – Bachelor of Engineering (Computer & Network Engineering) (Honours)  
-**Certifications:** AWS Certified Cloud Practitioner, AWS Solutions Architect – Associate (In Progress), Certificate IV in Cyber Security (In Progress)  
-
----
-
 ## 📫 Contact Me
 [Email](mailto:manishsharma7@hotmail.com) | [LinkedIn](https://www.linkedin.com/in/manishsharma-7) | [GitHub](https://github.com/manishsharma-7)  
 
 ---
 
-## 🌟 Motto
-*"Passionate about building secure, scalable, and automated cloud solutions that empower healthcare providers and improve patient outcomes."*
+
