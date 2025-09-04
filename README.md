@@ -16,17 +16,22 @@
 ---
 
 ## 📝 Professional Summary
-Implementation Engineer & Cloud Engineer with 4+ years of experience delivering healthcare technology solutions and managing enterprise cloud environments. Skilled in AWS, Microsoft 365, Azure fundamentals, and CI/CD automation, with expertise in system integration, cloud security, and stakeholder engagement. Proven success in improving deployment efficiency, reducing downtime, and supporting healthcare providers with secure, reliable platforms. Currently completing a Certificate IV in Cyber Security and preparing for AWS Certified Solutions Architect - Associate certification.<img width="468" height="114" alt="image" src="https://github.com/user-attachments/assets/d19b5a67-a678-4e50-b2fc-1f9a22ac0a56" />
+Implementation Engineer & Cloud Engineer with 4+ years of experience delivering healthcare technology solutions and managing enterprise cloud environments. Skilled in AWS, Microsoft 365, Azure fundamentals, and CI/CD automation, with expertise in system integration, cloud security, and stakeholder engagement. Proven success in improving deployment efficiency, reducing downtime, and supporting healthcare providers with secure, reliable platforms. Currently completing a Certificate IV in Cyber Security and preparing for AWS Certified Solutions Architect - Associate certification.
 
 
 ---
 
 ## 🛠️ Tech Stack & Skills
 
-**Cloud & DevOps:** AWS, Azure, CI/CD, IaC, Terraform  
-**Programming & Scripting:** Python, PowerShell, Bash  
-**Containerisation & Orchestration:** Docker, Kubernetes  
-**Monitoring & Security:** AWS CloudWatch, Azure Monitor  
+**Cloud & DevOps: AWS (EC2, RDS, DynamoDB, IAM, Security Groups, GuardDuty, KMS), Azure (VMs, Storage, Networking – learning experience), CI/CD (GitHub Actions – transferable to Azure DevOps/Jenkins), CloudFormation (exposure to Terraform/Ansible), SaaS, Infrastructure-as-Code, Docker, Kubernetes
+**Cloud & DevOps: AWS (EC2, RDS, DynamoDB, IAM, Security Groups, GuardDuty, KMS), CI/CD, CloudFormation, SaaS, Infrastructure-as-Code, Docker, Kubernetes
+**Networking & Systems: LAN/WAN, Switches/Routers, Windows, Linux, macOS, Active Directory, Microsoft 365 (Teams, Exchange), Virtual Machines (VMware, Hyper-V), Backup/recovery, Intune, Hardware Troubleshooting
+**Security: OS Hardening, Patch Management, IAM Policies, Incident Response, Governance & Compliance, Cloud Security Best Practices
+**Programming & Tools: Python, Bash, PowerShell, MySQL, Git/GitHub
+**Monitoring & Observability: AWS CloudWatch, ELK Stack, Prometheus
+**Collaboration & Documentation: JIRA, ServiceNow, Confluence, SOPs, Installation Guides, Stakeholder Management
+
+
 
 ---
 
