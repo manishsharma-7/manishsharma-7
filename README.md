@@ -47,8 +47,8 @@ Currently completing a **Certificate IV in Cyber Security** and preparing for **
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manishsharma-7&layout=compact&theme=dark)  
 
 ---
-
+## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=manishsharma-7&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
+---
 ## 📫 Contact Me
 [Email](mailto:manishsharma7@hotmail.com) | [LinkedIn](https://www.linkedin.com/in/manishsharma-7) | [GitHub](https://github.com/manishsharma-7)
