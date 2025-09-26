@@ -1,8 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://via.placeholder.com/900x150/0d1117/ffffff?text=Manish+Sharma+-+Cloud+Engineer+Portfolio" alt="Banner" />
-</p>
-
 # 👋 Hi, I'm Manish Sharma
 **Implementation Engineer | Network Engineer | Cloud Enthusiast | Healthcare IT Specialist**
 
